@@ -1,0 +1,11 @@
+{
+  "name": "HelloNodejs",
+  "version": "0.0.1",
+  "description": "HelloNodejs",
+  "main": "app.js",
+  "author": {
+    "name": "Masashi Teruya",
+    "email": "MasashiTeruya@outlook.com"
+  }
+}
+
